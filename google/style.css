@@ -1,14 +1,17 @@
 body {
-    text-align: center;
+    margin: 0 auto;
+    
 }
 
 form {
     padding: 1px 0px 1px 20px;
     width: 511px;
     height: 44px;
+    text-align: center;
 }
 
 img{
     width: 272px;
     height: 92px;
+    text-align: center;
 }
