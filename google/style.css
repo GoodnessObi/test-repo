@@ -4,4 +4,11 @@ body {
 
 form {
     padding: 1px 0px 1px 20px;
+    width: 511px;
+    height: 44px;
+}
+
+img{
+    width: 272px;
+    height: 92px;
 }
